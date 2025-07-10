@@ -99,5 +99,5 @@ function saveData() {
   saveToIndexedDB(generatedData);
 
   // Przekierowanie do card.html
-  window.location.href = 'card.html';
+  window.location.href = 'id.html';
 }
